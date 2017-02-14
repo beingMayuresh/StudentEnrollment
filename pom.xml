@@ -72,13 +72,13 @@
 					<version>2.4</version>
 					<configuration>
 						<warSourceDirectory>src/main/webapp</warSourceDirectory>
-						<warName>Spring4MVCFormValidationExample</warName>
+						<warName>StudentEnrollment</warName>
 						<failOnMissingWebXml>false</failOnMissingWebXml>
 					</configuration>
 				</plugin>
 			</plugins>
 		</pluginManagement>
-		<finalName>Spring4MVCFormValidationExample</finalName>
+		<finalName>StudentEnrollment</finalName>
 	</build>
 </project>
 
